@@ -12,4 +12,9 @@ public class Basic {
       /* This is also an example of single line comment. */
       System.out.println("Hello World");
    }
+
+   
+   public static getCompanyName(){
+	   return COMPANY_NAME;
+   }
 }
