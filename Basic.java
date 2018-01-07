@@ -5,6 +5,8 @@ public class Basic {
     * This is an example of multi-line comments.
     */
 
+   private final static String COMPANY_NAME = "dynamic.pvt.ltd";
+   
    public static void main(String []args) {
       // This is an example of single line comment
       /* This is also an example of single line comment. */
