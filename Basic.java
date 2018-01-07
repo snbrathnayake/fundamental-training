@@ -10,7 +10,7 @@ public class Basic {
    public static void main(String []args) {
       // This is an example of single line comment
       /* This is also an example of single line comment. */
-      System.out.println("Hello World");
+      System.out.println("Hello "+ getCompanyName());
    }
 
    
