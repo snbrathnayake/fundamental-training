@@ -18,4 +18,8 @@ public class Basic {
    public static getCompanyName(){
 	   return COMPANY_NAME;
    }
+   
+   public String getAuthToken(){
+	   return null;
+   }
 }
