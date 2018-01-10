@@ -20,6 +20,4 @@ public class Basic {
    }
    
    public String getAuthToken(){
-	   return null;
-   }
-}
+	   return 'RT4fg3@3frRfdfds2015';
