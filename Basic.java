@@ -7,11 +7,7 @@ public class Basic {
 
    private final static String COMPANY_NAME = "dynamic.pvt.ltd";
    private final static Integer count =78 ;
-<<<<<<< HEAD
-
-=======
    private static String LETTER_SIZE= 510;
->>>>>>> FETCH_HEAD
    
    public static void main(String []args) {
       // This is an example of single line comment
