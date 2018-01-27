@@ -5,7 +5,7 @@ public class Basic {
     * This is an example of multi-line comments.
     */
 
-   private final static String COMPANY_NAME = "dynamic.pvt.ltd";
+   private final static String COMPANY_NAME = "try-log.pvt.ltd";
    private final static Integer count =78 ;
    private static String LETTER_SIZE= 510;
    
